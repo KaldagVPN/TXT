@@ -1,9 +1,4 @@
 {
 "SendMessage":01,"
-MyMessage":"HOW TO DO?
-1. Click Ads everyday (Support)
-2. Donate GCash (Any amount) , I will buy more servers.
-3. Do not abuse our servers / Torrenting / DDoS / Overdownloading
-Gcash#: 09677489110 (Joebert C. Morales)
--💖MikaKingTech💖-"
+MyMessage":"Gcash#: 09677489110"
 }
